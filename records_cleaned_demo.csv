@@ -1,0 +1,20 @@
+﻿distance,cab_type,destination,source,price,surge_multiplier,id,product_id,name,datetime,temp,location,clouds,pressure,rain,humidity,wind
+0.55,Uber,South Station,Theatre District,7,1,74b72f4c-28bc-4640-a427-ec60b4b11f82,55c66225-fbe7-4fd5-9072-eab1ece5e23e,UberX,28-11-2018 17:32,41.47,Theatre District,0.85,991.67,0,0.63,9.93
+0.61,Uber,West End,Haymarket Square,26,1,b25245bc-6622-4bda-8224-d51f944ef604,6d318bcc-22a3-4af6-bddd-b409bfce1546,Black SUV,26-11-2018 05:36,40.67,Haymarket Square,0.9,1013.83,0,0.92,1.83
+1.22,Lyft,Beacon Hill,Haymarket Square,10.5,1,6a435bb7-616a-48b9-b037-d9b8ace0f537,lyft_plus,Lyft XL,28-11-2018 18:32,41.26,Haymarket Square,0.99,991.7,0,0.64,10.27
+1.34,Uber,Fenway,Back Bay,12,1,dee23472-e9a3-4149-8cf8-5a0f87144a94,997acbb5-e102-41e1-b155-9df7de0a73f2,UberPool,27-11-2018 02:15,44.32,Back Bay,1,1003.12,0.1144,0.9,13.64
+1.89,Uber,Theatre District,Northeastern University,21,1,17922e0f-fac4-4588-b9cb-5f325e0eaad4,6c84fd89-3f11-4782-9b50-97c468b19529,Black,28-11-2018 21:32,40.23,Northeastern University,0.86,994.12,0,0.66,9.53
+2.81,Lyft,Back Bay,North End,10.5,1,65e2de5e-a617-47ca-bcd3-559d57d012f1,lyft,Lyft,28-11-2018 10:06,33.21,North End,0.14,991.19,0,0.84,5.69
+2.83,Lyft,Boston University,West End,34,1,c6466139-0557-4a25-851b-5bd558a5e5de,lyft_luxsuv,Lux Black XL,28-11-2018 09:34,33.22,West End,0.41,991.8,0,0.84,5.96
+3.2,Lyft,Fenway,North Station,16.5,1,1e13d3d7-457a-433e-901e-fc78154c20b7,lyft_plus,Lyft XL,28-11-2018 23:02,39.9,North Station,0.98,995.03,0,0.64,9.99
+1.57,Uber,North End,Theatre District,26,1,8fceb75f-6394-46c6-9197-f67381d552a2,6d318bcc-22a3-4af6-bddd-b409bfce1546,Black SUV,27-11-2018 00:58,43.95,Theatre District,0.98,1005.98,0.1884,0.9,9.95
+1.81,Uber,Northeastern University,Theatre District,0,1,4d8704b7-a14b-4302-b779-f2e900963a8e,8cf7e821-f0d3-49c6-8eba-e679c0ebcf6a,Taxi,28-11-2018 14:06,38.51,Theatre District,0.48,991.69,0,0.67,11.26
+1.61,Uber,Haymarket Square,Theatre District,18.5,1,e10d0184-5fe4-4c1b-8d8a-b50095daffb6,6c84fd89-3f11-4782-9b50-97c468b19529,Black,28-11-2018 14:32,38.99,Theatre District,0.45,991.95,0,0.67,11.14
+2.41,Lyft,Beacon Hill,Northeastern University,7,1,6c5273c6-8d7c-4d0f-98c0-bda5561c5e2a,lyft_line,Shared,28-11-2018 14:02,38.49,Northeastern University,0.49,991.67,0,0.67,11.39
+4.48,Uber,Fenway,Financial District,42,1,d0e9ef6f-a268-411b-a41c-c7eb2fea3210,6d318bcc-22a3-4af6-bddd-b409bfce1546,Black SUV,29-11-2018 01:02,36.85,Financial District,0.71,997.12,0,0.76,10
+7.34,Uber,North End,Back Bay,15.5,1,17e5074f-6118-4096-b129-992e1c5eab02,997acbb5-e102-41e1-b155-9df7de0a73f2,UberPool,26-11-2018 06:14,40.46,Back Bay,1,1014.18,0,0.91,1.16
+2.62,Uber,Boston University,Theatre District,10.5,1,95cdde13-941c-44fe-9ff5-36822ee0bbd2,9a0e7b09-b92b-4c41-9779-2ad22b4d779d,WAV,28-11-2018 23:53,39.23,Theatre District,0.86,995.96,0,0.66,10.56
+4.54,Lyft,Fenway,Financial District,16.5,1.25,cc154482-1d63-4c7c-ae88-1b753c6e013e,lyft,Lyft,28-11-2018 17:02,41.41,Financial District,0.92,991.49,0,0.63,9.25
+1.08,Uber,Northeastern University,Back Bay,0,1,467d2f3b-5509-4a90-9e22-8c2a56abf34d,8cf7e821-f0d3-49c6-8eba-e679c0ebcf6a,Taxi,29-11-2018 02:02,38.51,Back Bay,0.54,997.83,0,0.7,10.23
+1.01,Lyft,Financial District,Haymarket Square,11,1,8051005c-9020-4943-ab3a-7c20c744d2ef,lyft_plus,Lyft XL,26-11-2018 06:49,41.13,Haymarket Square,0.98,1014.35,0,0.92,1.82
+3.03,Lyft,Haymarket Square,Back Bay,38.5,1,70f2eff0-3415-415a-bd7e-7ddf01cf02b6,lyft_luxsuv,Lux Black XL,28-11-2018 10:32,32.86,Back Bay,0.16,991.42,0,0.85,6.36
